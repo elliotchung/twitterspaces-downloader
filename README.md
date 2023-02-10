@@ -10,7 +10,7 @@ PowerToys
 1. Navigate to the twitter space recording on Chrome
 2. Open ddevtools by pressing F12 andd navigate to the network tab
 3. Filter the results with 'chunk_'
-![image](https://user-images.githubusercontent.com/101564632/218020534-af5f4003-6636-4904-a92d-63ad66814b9d.png)
+![image](https://user-images.githubusercontent.com/101564632/218022552-c7430218-b769-4619-9fd7-b42866c22590.png)
 4. Wait for the recording to finish and all the chunks are shown in the network tab
 5. Follow the instructions here to get all the URLs of the chunks:
 https://stackoverflow.com/questions/41200450/multiple-urls-copy-in-sources-network-tab
