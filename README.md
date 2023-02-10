@@ -6,7 +6,7 @@ Chrome
 VScode
 Jdownloader2
 PowerToys
-
+### Steps:
 1. Navigate to the twitter space recording on Chrome
 2. Open ddevtools by pressing F12 andd navigate to the network tab
 3. Filter the results with 'chunk_'
